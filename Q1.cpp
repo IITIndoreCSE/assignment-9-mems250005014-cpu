@@ -2,7 +2,7 @@
 using namespace std;
 
 // Define the structure
-struct Item {
+structure Item {
     int id;
     float cost;
 };
