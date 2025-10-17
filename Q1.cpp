@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Define the structure
-structure Item {
+struct Item {
     int id;
     float cost;
 };
