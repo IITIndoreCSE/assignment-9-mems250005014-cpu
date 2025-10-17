@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Define the structure
 struct Point {
     float x;
     float y;
